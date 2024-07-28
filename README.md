@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayasree S Kota</h1>
+<h1 align="center">Hi 👋, I'm Jayasree Kota(Jayy)</h1>
 <h3 align="center">Empowering Efficiency and Innovation through PowerApps, C#, and JavaScript</h3>
 
 - 🔭 I’m currently working on [Genie (A C# ChatBot Powered by ChatGPT)](https://github.com/JayasreeSKota/Genie)
