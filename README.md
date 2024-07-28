@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jayasreeskota@gmail.com**
 
-- 📄 Know about my experiences [https://moccasin-karissa-7.tiiny.site/](https://moccasin-karissa-7.tiiny.site/)
+- 📄 Know about my experiences [https://magenta-shawn-54.tiiny.site](https://magenta-shawn-54.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
